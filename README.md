@@ -47,10 +47,3 @@ Desenvolvido por:
 O projeto apresenta os resultados das previsões feitas pelos modelos treinados, comparando desempenho através das principais métricas de classificação.
 
 ---
-
-## 📁 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/projeto-titanic.git
-   cd projeto-titanic
